@@ -1,0 +1,6 @@
+{
+  "name": "Absen Madrasah",
+  "description": "Aplikasi Absensi Barcode, QR Code, dan Scan Wajah Siswa Madrasah dengan Room Database, Kamera Deteksi Wajah, dan Simulasi Absensi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
